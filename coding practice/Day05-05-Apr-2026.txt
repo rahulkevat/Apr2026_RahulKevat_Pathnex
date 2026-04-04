@@ -1,0 +1,7 @@
+- name: Install nginx on Pathnex server
+ hosts: all
+ become: yes
+
+tasks: 
+   - name: Install nginx
+     state: present

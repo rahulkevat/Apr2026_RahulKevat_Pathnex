@@ -1,0 +1,26 @@
+2 Hours - Online Session in the moring
+2 Hours - AWS 
+3 Hours - AWS Setup
+2 Hours - GitHub Setup
+
+Tommorrows Task
+
+will learn linux 
+Basic Linux Installation
+Ec2 Connect
+GitHub Connection
+
+
+Esc
+ZZ
+Esc
+:q!
+Enter
+
+
+Esc
+:wq
+
+
+
+
