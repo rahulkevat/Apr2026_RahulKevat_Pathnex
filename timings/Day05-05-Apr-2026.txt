@@ -11,16 +11,6 @@ Ec2 Connect
 GitHub Connection
 
 
-Esc
-ZZ
-Esc
-:q!
-Enter
-
-
-Esc
-:wq
-
 
 
 
